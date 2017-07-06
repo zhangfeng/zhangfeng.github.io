@@ -25,5 +25,16 @@ url: "https://zhangfeng.github.io/" # the base hostname & protocol for your site
 markdown: kramdown
 theme: minima
 
-gems:
-    - jekyll-seo-tag
+defaults:
+    - scope:
+        path: ""
+        type: posts
+      values:
+          layout: post
+    - scope:
+        path: ""
+        type: page
+      values:
+          layout: page
+
+
