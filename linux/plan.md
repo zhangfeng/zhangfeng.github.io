@@ -44,7 +44,7 @@ Commandes non exhaustif:
 - mv, cp, rm
 - df, du
 - head, tail, cat, tac, less, more
-- mount
+- mount, umount
 - sed, awk, cut
 - vi, nano
 
