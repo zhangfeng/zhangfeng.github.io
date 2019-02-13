@@ -3,36 +3,36 @@ layout: page
 title: Support de cours sur l'administration Linux
 ---
 
-# Administration systèmes Linux
+# Administration systÃ¨mes Linux
 
-## Définition
+## DÃ©finition
 
-L'administration des systèmes et réseaux consiste à gérer un parc de
+L'administration des systÃ¨mes et rÃ©seaux consiste Ã  gÃ©rer un parc de
 servers.
 
 Un server est un ordinateur qui fournit des services. Ces services sont
-accessibles par le réseau.
+accessibles par le rÃ©seau.
 
-## les tâches de l'administrateur
+## les tÃ¢ches de l'administrateur
 
-Les tâches de l'administrateur se regroupent en 3 grandes catégories:
+Les tÃ¢ches de l'administrateur se regroupent en 3 grandes catÃ©gories:
 
-- l'exploitation: cette catégorie regroupe toutes les tâches récurrentes
-    permettant le maintien en bon fonctionnement des différents services.
-    Parmi ces tâches:
-    - gestion des utilisateurs autorisés à utiliser ces services
-    - détection et correction des dysfonctionnement
-- l'amélioration: dans cette catégorie nous retrouverons toutes les tâches
-    permettant d'améliorer les services. Par exemple:
-    - les actions de migration vers des versions plus récentes
+- l'exploitation: cette catÃ©gorie regroupe toutes les tÃ¢ches rÃ©currentes
+    permettant le maintien en bon fonctionnement des diffÃ©rents services.
+    Parmi ces tÃ¢ches:
+    - gestion des utilisateurs autorisÃ©s Ã  utiliser ces services
+    - dÃ©tection et correction des dysfonctionnement
+- l'amÃ©lioration: dans cette catÃ©gorie nous retrouverons toutes les tÃ¢ches
+    permettant d'amÃ©liorer les services. Par exemple:
+    - les actions de migration vers des versions plus rÃ©centes
     - la veille technologique
     - optimisations de configuration
-- la documentation: cette catégorie regroupe toutes les actions de
+- la documentation: cette catÃ©gorie regroupe toutes les actions de
     transmission d'information. Cette transmission a plusieurs buts:
-    - un usage aux normes des services par les bénéficiaires
-    - un dépannage efficace par une autre personne de l'équipe en cas
+    - un usage aux normes des services par les bÃ©nÃ©ficiaires
+    - un dÃ©pannage efficace par une autre personne de l'Ã©quipe en cas
         d'absence de l'administrateur principal
-    - un transfert de connaissance des systèmes pour les personnes
+    - un transfert de connaissance des systÃ¨mes pour les personnes
         suivantes
 
 
