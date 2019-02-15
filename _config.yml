@@ -25,6 +25,12 @@ url: "https://zhangfeng.github.io/" # the base hostname & protocol for your site
 markdown: kramdown
 theme: minima
 
+collections:
+    linux:
+        output: true
+    admin_sys:
+        output: true
+        
 defaults:
     - scope:
         path: ""

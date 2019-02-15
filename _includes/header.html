@@ -15,9 +15,9 @@
 
       <div class="trigger">
           <ul>
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <li><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+        {% for coll in site.collections | where_exp: "c", "c.label != 'posts'" %}
+          {% if coll.label %}
+          <li><a class="page-link" href="{{ coll.label | relative_url }}">{{ coll.label | escape }}</a></li>
           {% endif %}
         {% endfor %}
           </ul>
