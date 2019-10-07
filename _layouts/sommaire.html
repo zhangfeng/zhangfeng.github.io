@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<h1>i{{ collection }}</h1>
+
+<ul>
+{% col = site.collections | where: "label", collection | first
+    for d in col.docs %}
+    <li><a href="{{ d.url }}">{{ d.title }}</a>
+{% endfor %}

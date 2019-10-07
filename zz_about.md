@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: pages
 title: L'auteur du site
-permalink: /about/
 ---
 
 L'auteur du site a toujours des idées qui bougent, bouillonnent et vivent.
