@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Support de cours pour le scripting bash
 ---
 # Scripting bash
